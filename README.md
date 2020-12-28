@@ -2,7 +2,7 @@
 
 This script is from the offical magisk github.  I have adjusted the files to be compatible with arm so that the script will work properly. What this does basically is patches your clean boot.img with magisk and enables recovery.  The point of this is a work around to the black screen issue on reboot for Nintendo Switch Users flashing magisk in twrp. 
 
-# Gudie
+# Guide
 
 - git clone or extract the folder anywhere.
 - copy your clean boot.img into the folder
