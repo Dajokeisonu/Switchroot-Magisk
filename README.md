@@ -4,7 +4,7 @@ This script is from the offical magisk github.  I have adjusted the files to be 
 
 # Guide
 
-- git clone or extract the folder anywhere.
+- git clone or extract the magisk folder anywhere.
 - copy your clean boot.img into the folder
 - open terminal in the folder and make the file executable chmod +x boot_patch.sh 
 - then type ./boot_patch.sh boot.img
