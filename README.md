@@ -6,8 +6,8 @@ This script is from the offical magisk github.  I have adjusted the files for ar
 
 - Git clone or extract the magisk folder anywhere.
 - Copy your clean boot.img into the folder.
-- Open terminal in the folder and make the file executable chmod +x boot_patch.sh 
-- Then type ./boot_patch.sh boot.img
+- Open terminal in the folder and make the file executable ```chmod +x boot_patch.sh``` 
+- Then type ```./boot_patch.sh boot.img```
 - Once the script is done you will have a new file called new-boot.img
 - Rename new-boot.img back to boot.img and place this in your switchroot/install folder
 - (Fresh Install Only) open the lineage zip that was created and place the boot.img file at the root of the zip as well.  This will prevent lineage from overwriting magisk.
