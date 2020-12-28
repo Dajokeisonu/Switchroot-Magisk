@@ -9,6 +9,7 @@ This script is from the official Magisk Github Repo https://github.com/topjohnwu
 - Open terminal in the folder and make the file executable ```chmod +x boot_patch.sh``` 
 - Then type ```./boot_patch.sh boot.img```
 - Once the script is done you will have a new file called new-boot.img
+- If you are getting an error it is possible you are missing dependencies ```sudo apt install binfmt-support qemu qemu-user-static``` This should resolve the `` cannot execute binary file: Exec format error``
 - Rename new-boot.img back to boot.img and place this in your switchroot/install folder
 - (Fresh Install Only) Open the lineage zip that was created and place the boot.img file at the root of the zip as well.  This will prevent lineage from       overwriting Magisk.
 - Flash in Hekate and reboot (Non Fresh Install)
