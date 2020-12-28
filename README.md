@@ -11,9 +11,9 @@ This script is from the official Magisk Github Repo https://github.com/topjohnwu
 - Once the script is done you will have a new file called new-boot.img
 - If you are getting an error enter ```sudo apt install binfmt-support qemu qemu-user-static``` That should resolve the error you receive.
 - Rename new-boot.img back to boot.img and place this in your `switchroot/install folder`
-- (Fresh Install Only) Open the lineage.zip and place boot.img file at the root of the zip.  This will prevent lineage from overwriting Magisk.
-- Flash in Hekate and reboot (Non Fresh Install)
-- (Fresh Install) reboot to twrp and follow the normal installation method of flashing the lineage zip and the open gapps.
+- **Fresh Install Only** Open the lineage.zip and place boot.img file at the root of the zip.  This will prevent lineage from overwriting Magisk.
+- **Non Fresh Install** Flash in Hekate and reboot. 
+- **Fresh Install** reboot to twrp and follow the normal installation method of flashing the lineage zip and the open gapps.
 - Once you are booted in, open your app drawer and click the new icon.  It will prompt you to update and grant permissions.
 - Open the Magisk Manager app and it will prompt you that it needs to reboot.
 - Once booted back in you will have root access with no black screen on reboots ENJOY!!!
