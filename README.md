@@ -1,6 +1,6 @@
 # Magisk-Switchroot-Solution
 
-This script is from the official Magisk Github Repo https://github.com/topjohnwu/Magisk.  I have adjusted the files for arm64 so that the script will work properly. What this does basically is patches your clean boot.img with Magisk and enables recovery.  The point of this is a work around to the black screen issue on reboot for Nintendo Switch Users flashing Magisk in twrp. The version of Magisk that will be included will be the beta version as it has been found to be the most stable.
+This script is from the official Magisk Github Repo https://github.com/topjohnwu/Magisk.  I have adjusted the files for arm64 so that the script will work properly. What this does basically is patches your clean boot.img with Magisk and enables recovery.  The point of this is a work around to the black screen issue on reboot for Nintendo Switch Users flashing Magisk in twrp. The version of Magisk that will be included will be the beta version as it has been found to be the most stable and compatible.
 
 # Guide
 
