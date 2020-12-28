@@ -4,7 +4,7 @@ This script is from the official Magisk Github Repo https://github.com/topjohnwu
 
 # Requirments
 
-Android Q On the Nintendo Switch. Linux on your PC or Laptop.
+Switchroot Android Q On the Nintendo Switch. Linux on your PC or Laptop.
 
 # Guide
 
