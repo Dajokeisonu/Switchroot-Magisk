@@ -10,7 +10,7 @@ This script is from the official Magisk Github Repo https://github.com/topjohnwu
 - Then type ```./boot_patch.sh boot.img```
 - Once the script is done you will have a new file called new-boot.img
 - Rename new-boot.img back to boot.img and place this in your switchroot/install folder
-- (Fresh Install Only) open the lineage zip that was created and place the boot.img file at the root of the zip as well.  This will prevent lineage from       overwriting Magisk.
+- (Fresh Install Only) Open the lineage zip that was created and place the boot.img file at the root of the zip as well.  This will prevent lineage from       overwriting Magisk.
 - Flash in Hekate and reboot (Non Fresh Install)
 - (Fresh Install) reboot to twrp and follow the normal installation method of flashing the lineage zip and the open gapps.
 - Once you are booted in, open your app drawer and click the new icon.  It will prompt you to update and grant permissions.
