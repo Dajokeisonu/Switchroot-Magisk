@@ -1,48 +1,47 @@
 Manifest-Version: 1.0
-Created-By: 1.0 (Android SignApk)
-
-Name: META-INF/com/google/android/updater-script
-SHA-256-Digest: hj8VnYpt9h16AJGWe/7/MZm6pRyr7KNfdsXGOOD2nuM=
-
-Name: arm/magiskinit64
-SHA-256-Digest: qpo3JQS2BC9nAvcWAQZGrkcCyFNT4a5W7UwfxaWCjwU=
-
-Name: common/addon.d.sh
-SHA-256-Digest: t0PS9/sDlZTRXaAF7Vr7GkSw0S8NZuwpr1ZzghGaQo4=
 
 Name: META-INF/com/google/android/update-binary
-SHA-256-Digest: qQOv974UXT3MJNuJ2LX6Lqqt3RvtmvSXinRCZWKhCoY=
+SHA1-Digest: BL9jC9XQkcviZs+lBBWoJ/LOZzg=
 
-Name: common/boot_patch.sh
-SHA-256-Digest: 3hd9QNsVr4y9Oy7l/9gvyhujOnQoUnuZhAkpiLqwsMQ=
-
-Name: x86/magiskboot
-SHA-256-Digest: aPcLt8KfRJj5CmimlQXtVkDVR9npTXo+l/E2ySBkEUw=
-
-Name: chromeos/kernel.keyblock
-SHA-256-Digest: TnCMnsQ6xKXXGEdMlDG6a22j5kqd2mr9KFOp6eMHn/s=
-
-Name: chromeos/futility
-SHA-256-Digest: Kxiqv/ArXa9bfv7D0zv/+4chunvyT95Ygtt/YQIOTkU=
-
-Name: chromeos/kernel_data_key.vbprivk
-SHA-256-Digest: vJ5weoblWpP0I+e82uSiX9RwuGjlOCm5G74sz7xtons=
-
-Name: x86/magiskinit
-SHA-256-Digest: fqP7ZvAqD9rn8xgvp13rkgy+AYJCX45aAORFRoDEits=
-
-Name: common/util_functions.sh
-SHA-256-Digest: Daz8ZmhFvXXPAkDa5JxizpbnNB4pQ3tn7VE2/lf8NG8=
-
-Name: x86/magiskinit64
-SHA-256-Digest: NqMu362hVpBZNW95M+xa1WrsZ7gYY5GUjSb4drbx8s4=
-
-Name: arm/magiskinit
-SHA-256-Digest: OdtmGQOLu6cPAK5RrvcGGi6lX9GjvHFn/VQKODAFEqc=
-
-Name: common/magisk.apk
-SHA-256-Digest: TtZ3V1GasEN4Nk4AWtgXGYxEHM7iKl/cVaSYewN+rRE=
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: /Ww7030sdiZKdgH7wUfCuczby3o=
 
 Name: arm/magiskboot
-SHA-256-Digest: XRYNcIMlh2azFscsUO+Ho+iWkYT1bPZFr3k9Z/Qo9c4=
+SHA1-Digest: F9ByFEhPJLsQsiCaLMQQlgvVnNY=
+
+Name: arm/magiskinit
+SHA1-Digest: igyhoKAv+bIW8xgQRkfj/HX/ZuM=
+
+Name: arm/magiskinit64
+SHA1-Digest: xW/tINT36IcfxCz1ZT7hWYk47dE=
+
+Name: chromeos/futility
+SHA1-Digest: Evd5+Hi0p6Pk1PV8KSghtak9Cdc=
+
+Name: chromeos/kernel.keyblock
+SHA1-Digest: zeiSVt//JG/gc0RW0507ZEaYVxU=
+
+Name: chromeos/kernel_data_key.vbprivk
+SHA1-Digest: oLkG4w/5HLb7fes+kXTkmmnIhY4=
+
+Name: common/addon.d.sh
+SHA1-Digest: 0lN/0aZlxyKEXuIP0kRN5Z2THfA=
+
+Name: common/boot_patch.sh
+SHA1-Digest: es/vfp9spe+Pq833svGfEtSEGy4=
+
+Name: common/magisk.apk
+SHA1-Digest: TSnBVI0/21SyoCdvMtVIznFh9oY=
+
+Name: common/util_functions.sh
+SHA1-Digest: 8R6mVgJgkT9xR4K4PILei1GKYts=
+
+Name: x86/magiskboot
+SHA1-Digest: 05JycLnZylbGWP/r1JSjRacliEU=
+
+Name: x86/magiskinit
+SHA1-Digest: YUIUxgTT0G4UY52hel70NxgRDYE=
+
+Name: x86/magiskinit64
+SHA1-Digest: N97YkGGEZwRM8Ml+akrX3YAxKBo=
 
