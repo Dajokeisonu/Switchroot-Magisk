@@ -23,4 +23,8 @@ Switchroot Android Q On the Nintendo Switch. Linux or Windows with (wsl) on your
 - **(Fresh Install Only)** Reboot to twrp and follow the normal installation method of flashing the lineage zip and the open gapps.
 - Once you are booted in, open your app drawer and click the new icon.  It will prompt you to update and grant permissions.
 - Open the Magisk Manager app and it will prompt you that it needs to reboot.
-- Once booted back in you will have root access with no black screen on reboots ENJOY!!!
+- Once booted back in you will have root access with no black screen on reboots.
+
+# Alternative
+
+- If you do not want to use this script you can simply flash the ``magisk-debug.zip`` in twrp.  Enjoy!!!!!!
