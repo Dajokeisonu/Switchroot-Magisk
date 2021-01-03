@@ -1,4 +1,4 @@
-# Magisk-Switchroot-Solution 
+# Switchroot-Magisk-Fix 
 
 This script is from the official [Magisk Github Repo](https://github.com/topjohnwu/Magisk)  I have adjusted the files for arm64 so that the script will work properly. What this does basically is patches your clean boot.img with Magisk. Thanks to **ByLaws** of Switchroot, Magisk has now been fixed in this version where there was a timing issue with sd cards in the past being to slow to probe thus causing hanging with a black screen. You may also flash the magisk zip in twrp.  this just gives you an alternative method if you want to be prerooted before flashing lineage.
 
