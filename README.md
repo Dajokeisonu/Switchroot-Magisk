@@ -4,7 +4,11 @@ This script is from the official Magisk Github Repo https://github.com/topjohnwu
 
 # Requirments
 
-Switchroot Android Q On the Nintendo Switch. Linux on your PC or Laptop.
+Switchroot Android Q On the Nintendo Switch. Linux or Windows with (wsl) on your PC or Laptop.
+
+# Dependencies 
+
+```sudo apt install binfmt-support qemu qemu-user-static```
 
 # Guide
 
@@ -13,7 +17,6 @@ Switchroot Android Q On the Nintendo Switch. Linux on your PC or Laptop.
 - Open terminal in the folder and make the file executable ```chmod +x boot_patch.sh``` 
 - Then type ```./boot_patch.sh boot.img```
 - Once the script is done you will have a new file called new-boot.img
-- If you are getting an error enter ```sudo apt install binfmt-support qemu qemu-user-static``` That should resolve the error you receive.
 - Rename new-boot.img back to boot.img and place this in your `switchroot/install folder`
 - **(Fresh Install Only)** Open the lineage.zip and place boot.img file at the root of the zip.  This will prevent lineage from overwriting Magisk.
 - **(Non Fresh Install)**  Flash in Hekate and reboot. 
